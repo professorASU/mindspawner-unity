@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "displayName": "MindSpawner",
     "description": "Unity Package for running MindSpawner Game AI.",
+    "documentationUrl": "https://github.com/professorASU/mindspawner-unity",
+    "licensesUrl": "https://github.com/professorASU/mindspawner-unity/blob/main/LICENSE",
     "unity": "2020.3",
     "author": {
         "name": "Tomoyoshi Yamamoto",
@@ -10,11 +12,11 @@
         "url": "https://github.com/professorASU/mindspawner-unity"
     },
     "dependencies": {
-        "com.professorasu.socketiou": "https://github.com/professorASU/SocketIOUnity.git"
+        "com.itisnajim.socketiounity": "git+https://github.com/itisnajim/SocketIOUnity.git#main"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/professorASU/mindspawner-unity.git"
+        "url": "https://github.com/professorASU/mindspawner-unity"
     },
     "keywords": [
         "mindspawner",
