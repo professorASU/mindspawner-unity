@@ -1,0 +1,6 @@
+{
+    "name": "com.mindspawner.core",
+    "version": "1.0.0",
+    "displayName": "MindSpawner",
+    "description": "This is a package for using MindSpawner game AI in Unity"
+}
