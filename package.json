@@ -11,10 +11,7 @@
         "email": "karolus@sfc.wide.ad.jp",
         "url": "https://github.com/professorASU/mindspawner-unity"
     },
-    "dependencies": {
-        "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git",
-        "com.itisnajim.socketiounity": "https://github.com/itisnajim/SocketIOUnity.git"
-    },
+    "dependencies": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/professorASU/mindspawner-unity"
