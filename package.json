@@ -12,8 +12,8 @@
         "url": "https://github.com/professorASU/mindspawner-unity"
     },
     "dependencies": {
-        "com.mob-sakai.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#upm",
-        "com.itisnajim.socketiounity": "git+https://github.com/itisnajim/SocketIOUnity.git#main"
+        "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git",
+        "com.itisnajim.socketiounity": "https://github.com/itisnajim/SocketIOUnity.git"
     },
     "repository": {
         "type": "git",
